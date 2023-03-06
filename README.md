@@ -1,5 +1,7 @@
 # hec_meta_extract
 
+Please Notice the Repo has moved to: https://github.com/waterinstitute/hec_meta_extract
+
 This tool is used to automatically pull key:value metadata from HEC-RAS and HEC-HMS models with the intent to assist in inputting meta data for the TWI web application: https://metadata-creation-tool.herokuapp.com/
 
 To install - Clone the repo and run:
